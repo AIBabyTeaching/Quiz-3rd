@@ -1,0 +1,106 @@
+CustomerID,Name,Age,Email,Signup Date
+1,Mary Johnson,,,2022-01-01
+2,,24.0,steve.b@example.org,2022-01-02
+3,Steve Brown,26.0,john.doe@example.com,2022-01-03
+4,,25.0,,2022-01-04
+5,,29.0,john.doe@example.com,2022-01-05
+6,Jane Smith,51.0,john.doe@example.com,2022-01-06
+7,Steve Brown,50.0,steve.b@example.org,2022-01-07
+8,Steve Brown,65.0,john.doe@example.com,2022-01-08
+9,Steve Brown,40.0,jane.smith@somewhere.net,2022-01-09
+10,,41.0,jane.smith@somewhere.net,2022-01-10
+11,Mary Johnson,,,2022-01-11
+12,Steve Brown,52.0,,2022-01-12
+13,,61.0,john.doe@example.com,2022-01-13
+14,Jane Smith,57.0,john.doe@example.com,2022-01-14
+15,Mary Johnson,39.0,steve.b@example.org,2022-01-15
+16,Jane Smith,44.0,,2022-01-16
+17,Mary Johnson,52.0,,2022-01-17
+18,,18.0,,2022-01-18
+19,John Doe,52.0,jane.smith@somewhere.net,2022-01-19
+20,Mary Johnson,54.0,,2022-01-20
+21,Jane Smith,,steve.b@example.org,2022-01-21
+22,,31.0,steve.b@example.org,2022-01-22
+23,Mary Johnson,20.0,john.doe@example.com,2022-01-23
+24,John Doe,18.0,,2022-01-24
+25,John Doe,22.0,,2022-01-25
+26,Steve Brown,43.0,jane.smith@somewhere.net,2022-01-26
+27,Steve Brown,31.0,steve.b@example.org,2022-01-27
+28,Jane Smith,56.0,john.doe@example.com,2022-01-28
+29,Mary Johnson,44.0,john.doe@example.com,2022-01-29
+30,Mary Johnson,26.0,,2022-01-30
+31,Steve Brown,,,2022-01-31
+32,Mary Johnson,32.0,,2022-02-01
+33,Mary Johnson,43.0,steve.b@example.org,2022-02-02
+34,John Doe,59.0,,2022-02-03
+35,Steve Brown,30.0,,2022-02-04
+36,,68.0,steve.b@example.org,2022-02-05
+37,Steve Brown,49.0,,2022-02-06
+38,,56.0,steve.b@example.org,2022-02-07
+39,John Doe,66.0,jane.smith@somewhere.net,2022-02-08
+40,Jane Smith,69.0,steve.b@example.org,2022-02-09
+41,Mary Johnson,,steve.b@example.org,2022-02-10
+42,John Doe,21.0,,2022-02-11
+43,Mary Johnson,47.0,,2022-02-12
+44,Jane Smith,54.0,john.doe@example.com,2022-02-13
+45,Jane Smith,40.0,john.doe@example.com,2022-02-14
+46,John Doe,56.0,,2022-02-15
+47,Jane Smith,62.0,john.doe@example.com,2022-02-16
+48,,32.0,steve.b@example.org,2022-02-17
+49,Jane Smith,60.0,,2022-02-18
+50,Mary Johnson,46.0,john.doe@example.com,2022-02-19
+51,Mary Johnson,,john.doe@example.com,2022-02-20
+52,Mary Johnson,30.0,jane.smith@somewhere.net,2022-02-21
+53,Mary Johnson,49.0,jane.smith@somewhere.net,2022-02-22
+54,,24.0,steve.b@example.org,2022-02-23
+55,Steve Brown,68.0,,2022-02-24
+56,John Doe,39.0,jane.smith@somewhere.net,2022-02-25
+57,Mary Johnson,45.0,john.doe@example.com,2022-02-26
+58,Jane Smith,19.0,,2022-02-27
+59,Mary Johnson,59.0,,2022-02-28
+60,Jane Smith,62.0,john.doe@example.com,2022-03-01
+61,Jane Smith,,,2022-03-02
+62,Mary Johnson,45.0,john.doe@example.com,2022-03-03
+63,,45.0,,2022-03-04
+64,Jane Smith,61.0,,2022-03-05
+65,Jane Smith,61.0,,2022-03-06
+66,Mary Johnson,37.0,steve.b@example.org,2022-03-07
+67,Jane Smith,47.0,john.doe@example.com,2022-03-08
+68,Jane Smith,28.0,john.doe@example.com,2022-03-09
+69,Mary Johnson,45.0,steve.b@example.org,2022-03-10
+70,Mary Johnson,42.0,steve.b@example.org,2022-03-11
+71,John Doe,,steve.b@example.org,2022-03-12
+72,,50.0,,2022-03-13
+73,,18.0,john.doe@example.com,2022-03-14
+74,Jane Smith,44.0,,2022-03-15
+75,,69.0,steve.b@example.org,2022-03-16
+76,Jane Smith,30.0,,2022-03-17
+77,John Doe,58.0,,2022-03-18
+78,Mary Johnson,20.0,,2022-03-19
+79,Mary Johnson,56.0,steve.b@example.org,2022-03-20
+80,Mary Johnson,23.0,john.doe@example.com,2022-03-21
+81,,,steve.b@example.org,2022-03-22
+82,John Doe,44.0,john.doe@example.com,2022-03-23
+83,,26.0,,2022-03-24
+84,,54.0,jane.smith@somewhere.net,2022-03-25
+85,John Doe,50.0,jane.smith@somewhere.net,2022-03-26
+86,John Doe,68.0,jane.smith@somewhere.net,2022-03-27
+87,John Doe,59.0,steve.b@example.org,2022-03-28
+88,John Doe,61.0,,2022-03-29
+89,Mary Johnson,41.0,john.doe@example.com,2022-03-30
+90,Steve Brown,32.0,,2022-03-31
+91,Steve Brown,,,2022-04-01
+92,John Doe,49.0,,2022-04-02
+93,Steve Brown,41.0,john.doe@example.com,2022-04-03
+94,Steve Brown,58.0,,2022-04-04
+95,John Doe,69.0,,2022-04-05
+96,Steve Brown,66.0,steve.b@example.org,2022-04-06
+97,,66.0,john.doe@example.com,2022-04-07
+98,Jane Smith,69.0,john.doe@example.com,2022-04-08
+99,Jane Smith,29.0,,2022-04-09
+100,John Doe,56.0,steve.b@example.org,2022-04-10
+1,Mary Johnson,,,2022-01-01
+21,Jane Smith,,steve.b@example.org,2022-01-21
+41,Mary Johnson,,steve.b@example.org,2022-02-10
+61,Jane Smith,,,2022-03-02
+81,,,steve.b@example.org,2022-03-22

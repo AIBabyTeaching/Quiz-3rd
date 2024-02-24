@@ -1,0 +1,101 @@
+EmployeeID,FullName,Department,Salary,Hire Date,Email,PhoneNumber
+1,Alex Johnson,Marketing,89986,2019-01-06,alex.j@example.com,5559101
+2,Bethany Cooper,IT,74160,2019-01-13,bethany.c@company.com,Not Provided
+3,Diana Morris,HR,114929,2019-01-20,bethany.c@company.com,Not Provided
+4,Charles Lee,Finance,84911,2019-01-27,alex.j@example.com,
+5,Charles Lee,,81821,2019-02-03,alex.j@example.com,555-5678
+6,Alex Johnson,HR,110535,2019-02-10,alex.j@example.com,555-9101
+7,Diana Morris,Finance,62175,2019-02-17,,
+8,,HR,104771,2019-02-24,alex.j@example.com,555-9101
+9,Charles Lee,,116358,2019-03-03,alex.j@example.com,555-5678
+10,Alex Johnson,,67327,2019-03-10,alex.j@example.com,Not Provided
+11,,IT,97057,2019-03-17,alex.j@example.com,5551234
+12,Diana Morris,Marketing,56150,2019-03-24,charles.l@enterprise.org,Not Provided
+13,Charles Lee,HR,54425,2019-03-31,,
+14,,HR,66032,2019-04-07,bethany.c@company.com,555-1234
+15,,Finance,52198,2019-04-14,alex.j@example.com,
+16,,,110500,2019-04-21,charles.l@enterprise.org,555-5678
+17,Charles Lee,HR,103394,2019-04-28,charles.l@enterprise.org,555-1234
+18,Charles Lee,,70079,2019-05-05,charles.l@enterprise.org,
+19,Bethany Cooper,HR,86220,2019-05-12,bethany.c@company.com,555-5678
+20,Diana Morris,IT,91874,2019-05-19,alex.j@example.com,Not Provided
+21,Alex Johnson,Marketing,63859,2019-05-26,,5555678
+22,,HR,100460,2019-06-02,,555-9101
+23,Bethany Cooper,,81419,2019-06-09,charles.l@enterprise.org,555-5678
+24,Alex Johnson,IT,58705,2019-06-16,bethany.c@company.com,555-5678
+25,Bethany Cooper,HR,92880,2019-06-23,bethany.c@company.com,555-9101
+26,Charles Lee,Finance,73236,2019-06-30,bethany.c@company.com,
+27,,Marketing,65358,2019-07-07,,
+28,Alex Johnson,HR,64596,2019-07-14,charles.l@enterprise.org,555-5678
+29,Alex Johnson,IT,83572,2019-07-21,alex.j@example.com,555-9101
+30,Alex Johnson,Finance,51279,2019-07-28,,555-9101
+31,Alex Johnson,IT,113197,2019-08-04,charles.l@enterprise.org,NaN
+32,Alex Johnson,IT,112516,2019-08-11,charles.l@enterprise.org,
+33,Bethany Cooper,Finance,57083,2019-08-18,alex.j@example.com,555-1234
+34,,IT,67771,2019-08-25,alex.j@example.com,
+35,Charles Lee,Finance,79975,2019-09-01,alex.j@example.com,
+36,Charles Lee,HR,95648,2019-09-08,bethany.c@company.com,Not Provided
+37,Charles Lee,Finance,98285,2019-09-15,alex.j@example.com,555-1234
+38,Charles Lee,Finance,69063,2019-09-22,charles.l@enterprise.org,Not Provided
+39,Bethany Cooper,Marketing,117642,2019-09-29,alex.j@example.com,555-1234
+40,Diana Morris,Finance,87599,2019-10-06,charles.l@enterprise.org,555-5678
+41,,Finance,101920,2019-10-13,,5551234
+42,Alex Johnson,HR,78529,2019-10-20,bethany.c@company.com,Not Provided
+43,Diana Morris,Marketing,85954,2019-10-27,,
+44,Charles Lee,,77856,2019-11-03,,555-1234
+45,Diana Morris,HR,52573,2019-11-10,charles.l@enterprise.org,555-1234
+46,,HR,85367,2019-11-17,,555-9101
+47,Alex Johnson,,110774,2019-11-24,charles.l@enterprise.org,
+48,Alex Johnson,Finance,73752,2019-12-01,alex.j@example.com,555-5678
+49,,IT,105029,2019-12-08,alex.j@example.com,Not Provided
+50,,Marketing,67685,2019-12-15,charles.l@enterprise.org,555-5678
+51,Charles Lee,IT,101693,2019-12-22,alex.j@example.com,NaN
+52,Alex Johnson,,105961,2019-12-29,bethany.c@company.com,555-1234
+53,Diana Morris,HR,106133,2020-01-05,,555-1234
+54,Bethany Cooper,HR,111268,2020-01-12,bethany.c@company.com,
+55,Bethany Cooper,Marketing,88243,2020-01-19,,555-1234
+56,,HR,107384,2020-01-26,alex.j@example.com,555-1234
+57,Charles Lee,HR,81653,2020-02-02,bethany.c@company.com,555-1234
+58,Bethany Cooper,Marketing,76657,2020-02-09,alex.j@example.com,Not Provided
+59,Alex Johnson,Marketing,89952,2020-02-16,,Not Provided
+60,,,72180,2020-02-23,charles.l@enterprise.org,555-9101
+61,Diana Morris,HR,51622,2020-03-01,charles.l@enterprise.org,5555678
+62,,HR,98756,2020-03-08,bethany.c@company.com,
+63,Diana Morris,,90809,2020-03-15,alex.j@example.com,
+64,,Finance,66725,2020-03-22,alex.j@example.com,
+65,,Finance,111396,2020-03-29,bethany.c@company.com,555-9101
+66,,Finance,101226,2020-04-05,charles.l@enterprise.org,Not Provided
+67,Diana Morris,,79402,2020-04-12,,555-9101
+68,Diana Morris,HR,54263,2020-04-19,bethany.c@company.com,
+69,,,96828,2020-04-26,,555-5678
+70,Bethany Cooper,,97924,2020-05-03,charles.l@enterprise.org,555-1234
+71,Charles Lee,Finance,109052,2020-05-10,alex.j@example.com,NaN
+72,Charles Lee,IT,61664,2020-05-17,charles.l@enterprise.org,Not Provided
+73,Charles Lee,HR,85737,2020-05-24,bethany.c@company.com,555-9101
+74,Diana Morris,Finance,79373,2020-05-31,alex.j@example.com,Not Provided
+75,Diana Morris,IT,86397,2020-06-07,bethany.c@company.com,
+76,Bethany Cooper,IT,88709,2020-06-14,bethany.c@company.com,
+77,Charles Lee,Marketing,111120,2020-06-21,charles.l@enterprise.org,555-9101
+78,Charles Lee,HR,69250,2020-06-28,bethany.c@company.com,
+79,,IT,71172,2020-07-05,charles.l@enterprise.org,555-5678
+80,Diana Morris,Finance,61555,2020-07-12,alex.j@example.com,555-9101
+81,Charles Lee,Marketing,103276,2020-07-19,charles.l@enterprise.org,5555678
+82,Bethany Cooper,HR,107492,2020-07-26,alex.j@example.com,555-1234
+83,Bethany Cooper,,103002,2020-08-02,charles.l@enterprise.org,555-5678
+84,Charles Lee,Finance,74762,2020-08-09,,555-1234
+85,Diana Morris,IT,61046,2020-08-16,,555-1234
+86,Bethany Cooper,IT,78769,2020-08-23,bethany.c@company.com,555-5678
+87,,Finance,103302,2020-08-30,charles.l@enterprise.org,555-9101
+88,Bethany Cooper,IT,73150,2020-09-06,charles.l@enterprise.org,
+89,Alex Johnson,Marketing,118247,2020-09-13,alex.j@example.com,
+90,Alex Johnson,HR,54853,2020-09-20,bethany.c@company.com,555-1234
+91,Diana Morris,Marketing,71792,2020-09-27,charles.l@enterprise.org,5551234
+92,Charles Lee,IT,109129,2020-10-04,bethany.c@company.com,555-9101
+93,Diana Morris,,117298,2020-10-11,,Not Provided
+94,Diana Morris,HR,81987,2020-10-18,charles.l@enterprise.org,555-5678
+95,Diana Morris,HR,65850,2020-10-25,charles.l@enterprise.org,555-1234
+96,Diana Morris,Finance,62112,2020-11-01,bethany.c@company.com,
+97,,Finance,74058,2020-11-08,charles.l@enterprise.org,555-9101
+98,,,95420,2020-11-15,bethany.c@company.com,555-5678
+99,Bethany Cooper,HR,88890,2020-11-22,charles.l@enterprise.org,555-9101
+100,Alex Johnson,,116017,2020-11-29,alex.j@example.com,555-5678
